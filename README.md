@@ -7,7 +7,7 @@ Each puzzle contains a fictional backstory that is the same for all participants
 **Puzzles**
 - Day 1: Extract the first and last number from a string both in digit or text and calculate.
 
-Ex: "agaonetwo2fo7three" -> 13
+Example: "agaonetwo2fo7three" -> 13
 - Day 2: Group and categorize specific strings. Calculate and find maximum.
 
-Ex: "Game 1: 3 green, 2 red; 1 blue, 5 red, 4 green" -> max: 5 red, 4 green, 1 blue
+Example: "Game 1: 3 green, 2 red; 1 blue, 5 red, 4 green" -> max: 5 red, 4 green, 1 blue

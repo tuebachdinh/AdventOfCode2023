@@ -4,6 +4,8 @@ Puzzles consist of two parts that must be solved in order, with the second part 
 Participants earn one golden star for each part they finish, giving a possible total of two stars per day and fifty stars per year.
 Each puzzle contains a fictional backstory that is the same for all participants, but each person receives a different piece of input data and should generate a different correct result.
 
+[![Gameplay Video](https://community.intersystems.com/sites/default/files/inline/images/advent_of_code_2021.png)]
+
 **Puzzles**
 - Day 1: Extract the first and last number from a string both in digit or text and calculate.
 

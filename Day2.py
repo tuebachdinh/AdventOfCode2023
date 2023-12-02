@@ -1,3 +1,4 @@
+
 import re
 
 file_path = '/Users/tueeee/Documents/Advent Of Code 2023/input2.txt'

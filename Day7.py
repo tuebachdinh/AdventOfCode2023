@@ -1,4 +1,4 @@
-file_path = '/Users/tueeee/Documents/Advent Of Code 2023/input7.txt'
+file_path = '/Users/tueeee/Documents/Advent Of Code 2023/Input/input7.txt'
 with open(file_path, 'r') as file:
     # Read all lines in the file
     lines = file.readlines()

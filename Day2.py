@@ -1,7 +1,7 @@
 
 import re
 
-file_path = '/Users/tueeee/Documents/Advent Of Code 2023/input2.txt'
+file_path = '/Users/tueeee/Documents/Advent Of Code 2023/Input/input2.txt'
 # Open the file in read mode ('r')
 with open(file_path, 'r') as file:
     # Read all lines in the file

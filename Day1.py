@@ -1,5 +1,5 @@
 
-file_path = '/Users/tueeee/Documents/Advent Of Code 2023/input.txt'
+file_path = '/Users/tueeee/Documents/Advent Of Code 2023/Input/input.txt'
 
 # Open the file in read mode ('r')
 with open(file_path, 'r') as file:

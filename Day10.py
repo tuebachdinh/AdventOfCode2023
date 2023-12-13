@@ -75,7 +75,6 @@ with open(file_path, 'r') as file:
             check_y = y
             return path, check_x,check_y, x_new, y_new
    
-    
     for index, line in enumerate(lines):
         for char in line:
             if char == 'S':
@@ -85,7 +84,6 @@ with open(file_path, 'r') as file:
     while result != 'S':
         result,check_x,check_y,x,y = next(x,y,lines,check_x,check_y)
         count += 1
-        #print(result)
     print(count//2)
     
     

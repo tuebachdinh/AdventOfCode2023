@@ -8,7 +8,6 @@ with open(file_path, 'r') as file:
     table = []
     xy_list = []
     ans = 0 
-    ans1 = 0 
     scale = 2
     for line in lines:
         if '.'*(len(line)-1) == line.strip('\n'):
